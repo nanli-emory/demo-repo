@@ -6,3 +6,7 @@ This is a demo-repo
 
 Watch a live demo
 
+### local development
+
+this is good start to develop
+
